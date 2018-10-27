@@ -1,5 +1,5 @@
 {
-  "name": "NodejsTypeScript",
+  "name": "nodejstypescript",
   "version": "0.1.0",
   "description": "A enable simple REST API using Restify for Node.js express apps with TypeScript",
   "repository": {
