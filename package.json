@@ -1,15 +1,15 @@
 {
-  "name": "express-typescript-starter-with-restify",
+  "name": "NodejsTypeScript",
   "version": "0.1.0",
   "description": "A enable simple REST API using Restify for Node.js express apps with TypeScript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vandbt/TypeScript-Node-Starter-with-Restify"
+    "url": "https://github.com/MnAbbas/NodejsTypeScript"
   },
   "bugs": {
-    "url": "https://github.com/vandbt/TypeScript-Node-Starter-with-Restify/issues"
+    "url": "https://github.com/MnAbbas/NodejsTypeScript/issues"
   },
-  "author": "SC Jeong, Bowden Kelly",
+  "author": "Mohammad Naser Abbasanadi",
   "license": "MIT",
   "scripts": {
     "start": "npm run serve",
