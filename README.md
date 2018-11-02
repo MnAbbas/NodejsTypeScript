@@ -1,7 +1,6 @@
 # TypeScript , Mongoose, Restify
 
 Enable REST API service simply.
-Adding Mongoose Restify API provider at [Microsoft/Typescript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 
 
 # Pre-reqs
